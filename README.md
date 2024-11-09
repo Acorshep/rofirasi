@@ -9,7 +9,7 @@ Then clone this repository in your system and then copy the ``` rofi ``` to ``` 
 git clone https://github.com/Acorshep/rofirasi.git
 cp ~/rofirasi/rofi/* ~/.config
 ```
-and ye set thy image path here for the image ye want to display
+and ya set thy image path here for the image ye want to display
 ```
 background-image:  url("~/Path/to/your/image", height);
 ```
