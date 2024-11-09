@@ -1,5 +1,10 @@
 ## Installation
-Clone this repository in your system and then copy the ``` rofi ``` to ``` /.config ```
+first insatll rofi if ye haven't already *i use arch btw* so for me and 
+* for arch users its ``` sudo pacman -S rofi ```
+* for ubuntu ``` sudo apt install rofi ```
+* for tip fedora ``` sudo dnf install rofi ```
+
+Then clone this repository in your system and then copy the ``` rofi ``` to ``` /.config ```
 ```
 git clone https://github.com/Acorshep/rofirasi.git
 cp ~/rofirasi/rofi/* ~/.config
