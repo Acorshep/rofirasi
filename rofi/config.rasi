@@ -68,7 +68,7 @@ mainbox {
 imagebox {
     padding:                     50px;
     background-color:            transparent;
-    background-image:            url("~/Pictures/w1.png", height);
+    background-image:            url("~/path/to/thy/image.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy" ];
 }
